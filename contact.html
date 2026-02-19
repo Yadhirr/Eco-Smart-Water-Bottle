@@ -6,11 +6,19 @@
   <title>Contact Us - EcoSmart</title>
   <style>
 /* === Body Styling === */
-body {
-  background-color: #f0f8f5;
-  color: #333;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+html {
+  overflow-y: scroll; /* Prevents layout shifting */
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
 /* === Header and Navigation Bar === */
 header {
   background-color: #000;
@@ -39,7 +47,6 @@ nav {
   flex-grow: 1;
   display: flex;
   justify-content: space-evenly;
-  
 }
 
 nav a {
@@ -65,10 +72,9 @@ nav a:hover {
     padding: 0.8em;
   }
 }
-    h1 {
-      color: #ffffff;
-    }
-
+  html {
+  overflow-y: scroll;
+}
     /* === Contact Form Styling === */
     .container {
       max-width: 600px;
@@ -193,6 +199,7 @@ nav a:hover {
 
 </body>
 </html>
+
 
 
 
