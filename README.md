@@ -6,9 +6,7 @@ Project Overview:
 
 The EcoSmart website is a front-end web project designed to:Present product features clearly, Display structured pricing, Allow users to customize their product, Dynamically calculate total price, Validate user input in contact forms, Provide a responsive navigation experience, 
 
-This project demonstrates practical use of: HTML 5, Responsive CSS (Flexbox & Media Queries), JavaScript DOM manipulation, Form validation logic
-
--Modal implementation
+This project demonstrates practical use of: HTML 5, Responsive CSS (Flexbox & Media Queries), JavaScript DOM manipulation, Form validation logic, Modal implementation
 
 -Dynamic image switching
 
