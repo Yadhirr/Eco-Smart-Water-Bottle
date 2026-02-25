@@ -4,11 +4,7 @@ A responsive multi-page product website for the EcoSmart Water Bottle brand.This
 
 Project Overview:
 
-The EcoSmart website is a front-end web project designed to:Present product features clearly, Display structured pricing, Allow users to customize their product, Dynamically calculate total price
-
--Validate user input in contact forms
-
--Provide a responsive navigation experience
+The EcoSmart website is a front-end web project designed to:Present product features clearly, Display structured pricing, Allow users to customize their product, Dynamically calculate total price, Validate user input in contact forms, Provide a responsive navigation experience
 
 -This project demonstrates practical use of:
 
